@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+===============================================================================
+
+This tutorial is about a react movie app. It is based originally on 
+Chris Blakely tutorial on FreeCodeCamp.org  you can find the full tutorial at https://www.freecodecamp.org/news/react-movie-app-tutorial/
+
+For this app will be using http://www.omdbapi.com/ API to get the movie details
