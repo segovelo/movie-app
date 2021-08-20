@@ -76,3 +76,10 @@ This tutorial is about a react movie app. It is based originally on
 Chris Blakely tutorial on FreeCodeCamp.org  you can find the full tutorial at https://www.freecodecamp.org/news/react-movie-app-tutorial/
 
 For this app will be using http://www.omdbapi.com/ API to get the movie details
+
+===============================================================================
+Dependecies:
+
+c:\react-projects>npm install bootstrap
+
+=============================================================================
